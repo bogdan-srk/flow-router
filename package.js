@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'bogdan-srk:flow-router',
+  name: 'bogdans:flow-router',
   summary: 'Carefully Designed Client Side Router for Meteor',
   version: '2.12.1',
   git: 'https://github.com/bogdan-srk/flow-router.git'
